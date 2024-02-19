@@ -11,10 +11,18 @@
             "text": "Welcome to naijlist store",
             "link": ""
           }
+        },
+        "announcement_kbhHDz": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_kbhHDz"
       ],
       "settings": {
         "color_scheme": "",
